@@ -32,11 +32,11 @@ Onde a primeira coluna (colada a esquerda do arquivo) corresponde a data de cria
 A segunda, corresponde a duração em segundos e
 A terceira, corresponde a prioridade estática (escala de prioridades positivas) do processo. 
 
-ex:
+Ex:
 
-0 5 4
-1 3 2
-2 5 8
+0 5 4<br>
+1 3 2<br>
+2 5 8<br>
 
 ## ✒️ Autores
 
