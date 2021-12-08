@@ -18,7 +18,7 @@ acesso ao terminal.
   <li>Na sua máquina use <code>git clone <link copiado></code></li>
   <li>verifique se o arquivo de entrada está na mesma pasta que o arquivo main.c</li>
   <li>Agora basta executar <code>g++ -o meuprograma main.c</code> para gerar um executável</li>
-  <li>E por fim, estando no mesmo diretório do arquivo meuprograma.exe, só execute .\meuprograma no terminal</li>
+  <li>E por fim, estando no mesmo diretório do arquivo meuprograma.exe, só execute .\meuprograma.exe no terminal</li>
 </ol> 
 Após esse processo seu arquivo de saída já vai ter sido gerado. 
 
